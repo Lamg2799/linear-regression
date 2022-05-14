@@ -1,21 +1,23 @@
 # linear-regression:
 
-Implementation of a linear regression algorithm during university. 
+### Sample image provided as sampleRuntimeImage.png
 
-Showcases basic Java skills and the ability to implement mathematical concepts with code.
+## Notes
 
-Produces a graph of random points and runs the linear gradient descent algorithm which 
+- This was written in 2018. I would now have used better coding conventions for naming, etc.
+
+## Description
+
+- Implementation of a linear regression algorithm during university. 
+- Showcases basic Java skills and the ability to implement mathematical concepts with code.
+- Produces a graph of random points and runs the linear gradient descent algorithm which 
 produces the best-fit line.
 
-# Note
-
-This was written in 2018. I would now have used better coding conventions for naming, etc.
-
-# Requirements:
+## Requirements:
 
 - Java 8
 
-# To Run:
+## Instructions:
 
 - Clone the repository.
 - Enter the cloned folder.
